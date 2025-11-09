@@ -1,5 +1,3 @@
-# CP-3-WEBDEV
-
 #  Relógio Molezinha
 
 Projeto desenvolvido para o **Checkpoint de Web Development (JavaScript)**.
